@@ -1,0 +1,9 @@
+--pre
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+optuna
+shap
+pycaret
