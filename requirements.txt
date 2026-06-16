@@ -9,4 +9,4 @@ shap
 pycaret
 tensorflow
 imbalanced-learn
-pyarrow
+fastparquet
