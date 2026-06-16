@@ -8,3 +8,5 @@ optuna
 shap
 pycaret
 tensorflow
+imbalanced-learn
+pyarrow
