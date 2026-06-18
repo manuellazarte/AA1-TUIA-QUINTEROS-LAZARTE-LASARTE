@@ -5,6 +5,7 @@ seaborn
 matplotlib
 scikit-learn
 optuna
+optuna-integration[tfkeras]
 shap
 pycaret
 tensorflow
