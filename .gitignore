@@ -8,4 +8,4 @@ ENV/
 *.log
 .ipynb_checkpoints/
 
-*.keras
+best_model.keras
