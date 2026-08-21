@@ -1,10 +1,9 @@
-# Ignorar el entorno virtual
 .venv/
 .venv2/
 venv/
 ENV/
 
-# Ignorar archivos de registro y temporales
+
 *.log
 .ipynb_checkpoints/
 
