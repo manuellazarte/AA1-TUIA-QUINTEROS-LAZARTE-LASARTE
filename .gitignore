@@ -7,4 +7,5 @@ ENV/
 *.log
 .ipynb_checkpoints/
 
-best_model.keras
+
+docker/files/output.csv
